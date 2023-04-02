@@ -1,0 +1,7 @@
+.move {
+  cursor: move;
+}
+
+.move.over {
+  border: 3px dotted #666;
+}
